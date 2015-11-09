@@ -1,0 +1,81 @@
+﻿TermCymru Licence Terms - Amodau Trwydded TermCymru
+
+This is a bilingual text file: Welsh first, then English.
+
+Amodau Trwydded TermCymru
+"""""""""""""""""""""""""
+ 
+Cronfa ddata o barau o dermau Cymraeg/Saesneg yw TermCymru. Gwasanaeth Cyfieithu Llywodraeth Cymru sydd wedi datblygu TermCymru, ac sy'n ei chynnal.
+
+Cewch ailddefnyddio cronfa ddata TermCymru (ac eithrio unrhyw frand neu logo Llywodraeth Cymru) yn rhad ac am ddim mewn unrhyw fformat neu gyfrwng, yn ddarostyngedig i'r amodau trwydded a nodir isod. Rhaid ichi beidio ag ailddefnyddio'r gronfa ddata mewn cyd-destun camarweiniol.  Rhag bod unrhyw amheuaeth, eiddo Llywodraeth Cymru yw'r enw "TermCymru" ac ni roddir caniatâd ichi ei ailddefnyddio heblaw at ddibenion priodoli.
+ 
+Caiff cronfa ddata TermCymru ei thrwyddedu fel a ganlyn:
+(a)     fel data agored, a drwyddedir o dan Drwydded Briodoli Open Data Commons 1.0; a
+(b)    mae cynnwys y gronfa ddata yn destun hawlfraint y Goron a thrwyddedir ef o dan Drwydded Briodoli Creative Commons 4.0 (CC-BY).
+ 
+Sylwch nad y fersiwn ddiweddaraf o gronfa ddata TermCymru, o reidrwydd, yw'r copi cyfredol sydd ar gael i'w lawrlwytho.  
+ 
+Mae prif gronfa ddata TermCymru ar gael fel adnodd chwiliadwy ar-lein (yn http://termcymru.cymru.gov.uk).  Caiff yr adnodd hwnnw ei ddiweddaru yn rheolaidd ac felly bydd yn fwy diweddar nag unrhyw fersiwn o TermCymru sydd ar gael i'w lawrlwytho. Bydd y fersiwn sydd ar gael i'w lawrlwytho yn cael ei diweddaru rhyw deirgwaith y flwyddyn..
+
+Argymhellir eich bod yn defnyddio'r fersiwn fwyaf diweddar sydd ar gael i'w lawrlwytho. Argymhellir hefyd eich bod yn gwirio unrhyw dermau yr ydych yn ansicr ohonynt yn erbyn y fersiwn ar-lein o gronfa ddata TermCymru.
+
+Sut i gydnabod cronfa ddata TermCymru
+ 
+Rydym yn ei gwneud yn ofynnol ichi ddefnyddio'r gydnabyddiaeth ganlynol:
+© Hawlfraint a hawl cronfa ddata y Goron 2015
+
+Pan fyddwch yn defnyddio cronfa ddata TermCymru (neu unrhyw ran ohoni), rhaid ichi ei gwneud yn eglur bod y gronfa ddata wedi ei thrwyddedu o dan Drwydded Briodoli Open Data Commons 1.0 a Thrwydded Briodoli Creative Commons 4.0 (CC-BY), a chynnwys dolenni i'r trwyddedau hynny.  Dylech hefyd gadarnhau pa fersiwn o gronfa ddata TermCymru rydych yn ei defnyddio, a'r dyddiad y cyhoeddwyd y fersiwn honno..
+
+Dyma enghraifft o ddatganiad priodoli:
+
+Cronfa Ddata TermCymru (fersiwn lawrlwythadwy 22 Mai 2015)
+© Hawlfraint a hawl cronfa ddata y Goron 2015
+Trwyddedir yr wybodaeth hon o dan Drwydded Briodoli Open Data Commons 1.0
+ [http://opendatacommons.org/licenses/by/1-0/] a Thrwydded Briodoli Creative Commons 4.0 (CC-BY) [http://creativecommons.org/licenses/by/4.0/legalcode]. 
+
+Anogir defnyddwyr cronfa ddata TermCymru i sefydlu dolenni i'r Amodau Trwydded hyn.
+
+Lle rydym wedi nodi deunydd y mae gan drydydd partïon hawlfraint arno, bydd angen ichi gael caniatâd wrth ddeiliaid yr hawlfraint honno. 
+
+Dylid anfon unrhyw ymholiadau ynghylch defnyddio ac ailddefnyddio cronfa ddata TermCymru atom yn: xcyfieithuunedddatblygu@Wales.GSI.Gov.UK 
+
+-------------------------------------------------------
+
+TermCymru Licence Terms
+""""""""""""""""""""""""
+ 
+TermCymru is a database of Welsh/English term pairs developed and maintained by the Welsh Government’s Translation Service.
+
+You may re-use the TermCymru database (not including any Welsh Government branding or logos) free of charge in any format or medium and subject to the licence terms set out below. You must not re-use the database in a misleading context.  For the avoidance of doubt, the name “TermCymru” belongs to the Welsh Government and is not permitted to be re-used by you other than for attribution purposes.
+ 
+The TermCymru database is being licensed as follows:
+(a)     as open data, licensed under the Open Data Commons Attribution Licence 1.0; and
+(b)    the content of the database is Crown copyright and is licensed under the Creative Commons Attribution Licence 4.0 (CC-BY).
+ 
+Please note that the current copy of the TermCymru database which is available for download may not be the most up to date version of the TermCymru database.  
+ 
+The main TermCymru database is available as an online searchable resource (at http://termcymru.cymru.gov.uk).  This resource is revised on a regular basis and therefore will be more current than any downloadable version of the TermCymru database, a new version of which will be uploaded every four months or so.
+
+It is recommended that you use the most current downloadable version of the database and also that you check any terms about which you are unsure against the online version of the TermCymru database. 
+
+How to credit the TermCymru database
+ 
+We require that you use the credit:
+© Crown copyright and database right 2015
+
+When you use the TermCymru database (or any part of it) you must make it clear that the database is licensed under the Open Data Commons Attribution Licence 1.0 and the Creative Commons Attribution Licence 4.0 (CC-BY) and include links to those licences.  You should also confirm which version of the TermCymru database you are using and the date on which it was published.
+
+An example attribution statement is as follows:
+
+TermCymru Database (downloadable version 22 May 2015)
+© Crown copyright and database right 2015
+This information is licensed under the Open Data Commons Attribution Licence 1.0
+ [http://opendatacommons.org/licenses/by/1-0/] and the Creative Commons Attribution Licence 4.0 (CC-BY) [http://creativecommons.org/licenses/by/4.0/legalcode]. 
+
+We encourage users of the TermCymru database to establish links to these Licence Terms.
+
+Where we have identified any third party copyright material you will need to obtain permission from the copyright holders concerned. 
+
+Any enquiries regarding the use and re-use of the TermCymru database should be sent to us at: xcyfieithuunedddatblygu@Wales.GSI.Gov.UK 
+
+
