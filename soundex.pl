@@ -9,6 +9,8 @@ my $file = '20150522-termcymru.csv';
 open my $fh, '<', $file or die "Could not open $file $!.\n";
 <$fh>; # headers
 
+print "Cymraeg,Saesneg\n";
+
 while(<$fh>){
     my ($en, $cy) = split /\t+/;
 	next unless $cy && $en;
